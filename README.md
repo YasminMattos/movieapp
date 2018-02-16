@@ -1,9 +1,9 @@
-# **"Bollywood Planet"**
+# **Bollywood Planet**
 ---
 Bollywood Planet es una plataforma para los amantes del cine hindú, que incluye películas selectas de reconocidos actores hindi. 
 ¡Te encantará!.
 
-![bollywood-preview](assets/images/preview.png)
+![image](https://user-images.githubusercontent.com/32296818/36332762-7d1b359e-1341-11e8-940d-1befb7723356.png)
 
 ## Elaborado para
 
