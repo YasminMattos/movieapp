@@ -1,6 +1,13 @@
 # **"Bollywood Planet"**
 ---
+Bollywood Planet es una plataforma para los amantes del cine hindú, que incluye películas selectas de reconocidos actores hindi. 
+¡Te encantará!.
 
+![bollywood-preview](assets/images/preview.png)
+
+## Elaborado para
+
+[Laboratoria](http://www.laboratoria.la/)
 
 
 # Reto Hackaton: "Bollywood Planet"
