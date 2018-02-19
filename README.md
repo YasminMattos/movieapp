@@ -1,6 +1,6 @@
-# **Bollywood Planet**
+# Bollywood Planet
 ---
-Bollywood Planet es una plataforma para los amantes del cine hindú, que incluye películas selectas de reconocidos actores hindi. 
+Bollywood Planet es una plataforma para los fanáticos del cine hindú, que incluye películas selectas de reconocidos actores hindi. 
 ¡Te encantará!.
 
 ![image](https://user-images.githubusercontent.com/32296818/36332762-7d1b359e-1341-11e8-940d-1befb7723356.png)
@@ -9,41 +9,60 @@ Bollywood Planet es una plataforma para los amantes del cine hindú, que incluye
 
 [Laboratoria](http://www.laboratoria.la/)
 
-
-# Reto Hackaton: "Bollywood Planet"
----
-
 ## Objetivo
 
 Crear un portal de películas inspirado en Bollywood, teniendo como principal función el filtro por géneros.
 
-## Planificación 
-El primer día realizamos Brainstorming para obtener la mayor cantidad de ideas posibles.
-* Elegimos al usuario que es fan de las películas de Bollywood.
-* Para ello elaboraremos un portal web de películas de Bollywood con versión mobile y desktop, que tenga contenido de calidad sobre las películas y que le brinde la posibilidad de buscar fácil y rápidamente las películas según el tipo de gustos que tenga.
+## Síntesis 
 
-![Con titulo](assets/docs/idea1.jpg "titulo")
+* Nuestro user persona: Usuario fan de las películas de Bollywood.
+* Elaboramos y testeamos con tres usuarios los sketches del portal de películas de Bollywood en versión mobile y desktop, centrados en el contenido de calidad,  filtros de búsqueda intuitivos que permiten buscar rápidamente las películas según el tipo de gustos que tenga el usuario.
 
 ## ¿Por qué escogimos el tema de Bollywood ?
-Investigando en otras páginas web, descubrimos que hay muy pocos portales específicos sobre este tipo de películas y su público es muy grande. Es díficil buscar una película de Bollywood por Internet sin que se descargue virus y con contenido de calidad, mayormente los usuarios compran las películas en DVD's y no quedan del todo satisfechos.
+Haciendo Benchmarking, descubrimos que hay escasos sites dirigidos al cine hindú. Es díficil encontrar películas de Bollywood por Internet, ya que muchas veces los portales existentes tienen contenido malicioso o no son calidad.
 
-## Brainstorming de Ideas del portal
-* Durante esta etapa comenzaron a fluir ideas sobre lo que va a contener el producto, y las fuimos pegando aleatoriamente.
-* Luego fuimos priorizando que elementos sí son  factibles realizar en el tiempo que se nos brindo.
-* También nos sirvio para establecer que tenemos dos tipos de usuarios:
-  * Fanáticos de Bollywood
-  * Usuario que sólo entra por recomendación.
-![Con titulo](assets/docs/idea4.jpg "titulo")
-## Sketch
+## Sketching
 
 ### 1.- Primer boceto 
 ## Versión desktop:
 
 ![Con titulo](assets/docs/vista2.jpg "titulo")
 
-## Versión mobile:
-![Con titulo](assets/docs/mobile6.jpg "titulo")
+## User Research
+## Testeo en Usuarios:
 
+Para validar nuestras ideas referentes al diseño del portal y del logo, realizamos preguntas a adeptos del cine hindú (futuros usuarios).
+
+### Entrevistas:
+
+#### Usuario 1: Adrian Elias, 22 años, Estudiante.
+
+1. ¿Usarias la plataforma para ver tu siguiente película hindú?
+
+Si, es bonita, simple. Y el plus de ver los musicales y escuchar las canciones me parece genial.
+
+2. ¿La recomendarias?
+Si.
+
+3. ¿Qué sugieres para mejorar tu experiencia en nuestro portal?
+Que tenga variedad de géneros, que el tiempo de carga sea corto y no redireccione a otras páginas de publicidad, que se pueda recordar cuentas y que haya opción de ver la película en pantalla completa.
+
+#### Usuario 2: Juan Llontop, 30, Trabajador independiente.
+
+1. ¿Qué opinas del logo de la marca (imagotipo)?
+Es llamativo, me gustan los colores ya que pienso en algo cálido, me produce una sensación de felicidad y bienestar, y el morado curiosidad.
+
+2. ¿Qué piensas cuándo te digo Bollywood Planet?
+Que es una marca acerca de todo lo referido a Bollywood.
+
+#### Usuario 3: Mariela García, 27, Ingeniera ambiental
+
+1. ¿Qué opinas del logo de la marca (imagotipo)?
+Me gusta la combinación, tiene iluminación y el mandala es lindo.
+
+* Las entrevistas nos sirvieron para darnos cuenta que tenemos dos tipos de usuarios:
+  * Fanáticos de Bollywood
+  * Usuario que sólo entra por recomendación.
 
 ## Elección del nombre del Portal y Diseño del Imagotipo:
 
@@ -83,37 +102,6 @@ Combinado con colores vivos y poderosos como el naranja o el rojo, produce un ef
 
 ![Con titulo](assets/docs/color-negro.jpg "titulo")
 
-## Testeo en Usuarios:
-
-Para validar nuestras ideas referentes al diseño del portal y del logo, realizamos preguntas a fanáticos del cine Bollywood (próximos usuarios).
-
-### Preguntas:
-
-#### Usuario 1: Adrian Elias, 22 años, Estudiante.
-
-1. ¿Usarias la plataforma para ver tu siguiente película hindú?
-
-Si, es bonita, simple. Y el plus de ver los musicales y escuchar las canciones me parece genial.
-
-2. ¿La recomendarias?
-Si.
-
-3. ¿Qué sugieres para mejorar tu experiencia en nuestro portal?
-Que tenga variedad de géneros, que el tiempo de carga sea corto y no redireccione a otras páginas de publicidad, que se pueda recordar cuentas y que haya opción de ver la película en pantalla completa.
-
-#### Usuario 2: Juan Llontop, 30, Trabajador independiente.
-
-1. ¿Qué opinas del logo de la marca (imagotipo)?
-Es llamativo, me gustan los colores ya que pienso en algo cálido, me produce una sensación de felicidad y bienestar, y el morado curiosidad.
-
-2. ¿Qué piensas cuándo te digo Bollywood Planet?
-Que es una marca acerca de todo lo referido a Bollywood.
-
-#### Usuario 3: Mariela García, 27, Ingeniera ambiental
-
-1. ¿Qué opinas del logo de la marca (imagotipo)?
-Me gusta la combinación, tiene iluminación y el mandala es lindo.
-
 ## Sketch Versión 2: 
 
 ### Versión Mobile:
@@ -123,12 +111,6 @@ Me gusta la combinación, tiene iluminación y el mandala es lindo.
 ![Con titulo](assets/docs/home.png "titulo")
 ![Con titulo](assets/docs/login.png "titulo")
 ![Con titulo](assets/docs/pelicula.png "titulo")
-
-### Versión Desktop:
-
-
-
-
 
 # Organización:
 ## Día uno: 
