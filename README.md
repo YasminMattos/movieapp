@@ -112,26 +112,26 @@ Combinado con colores vivos y poderosos como el naranja o el rojo, produce un ef
 ![Con titulo](assets/docs/login.png "titulo")
 ![Con titulo](assets/docs/pelicula.png "titulo")
 
-# Organización:
-## Día uno: 
+## Organización:
+### Día uno: 
 * Claudia: Research acerca de Bollywood (informacion y entrevistas), realizacion del sketch tanto de vista mobile como desktop.
 * Carla: Investigacion sobre API.
 * Yolanda: Avances del flujo de ventanas.
 * Yasmin: Testeo a cierto grupo de personas para filtrar información.
 
-## Día dos:
+### Día dos:
 * Claudia:Diseño del logo y de las ventanas, avance del Readme.
 * Carla: Avances sobre jalar informacion de la API.
 * Yolanda: Maquetado de las ventanas.
 * Yasmin: Data JSON con los genéros de nuestras peliculas.
 
-## Día tres:
+### Día tres:
 * Claudia: Maquetado y diseño de ventanas.
 * Carla: Funcionalidad y arreglos con Firebase.
 * Yolanda: Maquetado y avances del Readme.
 * Yasmin: Maquetado de vistas y funcionalidad de posteo.
 
-## Día cuatro:
+### Día cuatro:
 * Claudia: Ajustes vista mobile.
 * Carla: Arreglo problema de login de Facebook.
 * Yolanda: Termino del Readme.
